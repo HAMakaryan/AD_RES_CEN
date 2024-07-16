@@ -1,0 +1,4 @@
+A Guide to Digital Design and Synthesis
+    Chapters 2, 3;
+Fundamentals of Logic Design
+    1.3, 1.4
